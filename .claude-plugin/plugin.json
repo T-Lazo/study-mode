@@ -1,0 +1,20 @@
+{
+  "name": "study-mode",
+  "version": "0.1.0",
+  "description": "Evidence-based study mode for university coursework: one stated learning outcome restated every turn, tangents parked instead of followed, and answers gated behind an attempt once you have seen a topic before.",
+  "author": {
+    "name": "TJ",
+    "url": "https://github.com/T-Lazo"
+  },
+  "homepage": "https://github.com/T-Lazo/study-mode",
+  "repository": "https://github.com/T-Lazo/study-mode",
+  "license": "MIT",
+  "keywords": [
+    "learning",
+    "study",
+    "university",
+    "retrieval-practice",
+    "spaced-repetition",
+    "education"
+  ]
+}

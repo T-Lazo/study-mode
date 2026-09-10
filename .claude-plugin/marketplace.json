@@ -1,0 +1,17 @@
+{
+  "$schema": "https://www.schemastore.org/claude-code-marketplace.json",
+  "name": "study-mode",
+  "description": "Evidence-based study mode for university coursework. One stated outcome, tangents parked, answers gated behind an attempt.",
+  "owner": {
+    "name": "TJ",
+    "url": "https://github.com/T-Lazo"
+  },
+  "plugins": [
+    {
+      "name": "study-mode",
+      "description": "Turn a session into deliberate study: retrieval practice, spaced review, and a hard gate on answers you should be producing yourself.",
+      "source": "./",
+      "category": "education"
+    }
+  ]
+}
